@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home_screen"
+        android:title="@string/nav_home_view"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+    android:id="@+id/nav_synchronized_data"
+    android:title="@string/nav_synchronize_data"
+    android:icon="@drawable/baseline_restart_alt_24"/>
+
+    <item
+        android:id="@+id/nav_saved_survey"
+        android:title="@string/nav_saved_survey"
+        android:icon="@drawable/baseline_save_alt_24"/>
+    <item
+        android:id="@+id/nav_map_survey"
+        android:title="@string/nav_map_survey"
+        android:icon="@drawable/baseline_save_alt_24"/>
+
+    <item
+        android:id="@+id/nav_log_out"
+        android:title="@string/nav_log_out"
+        android:icon="@drawable/baseline_logout_24"/>
+
+    <!--<item
+        android:id="@+id/nav_verity_list"
+        android:title="@string/nav_verity_list"
+        android:icon="@drawable/baseline_save_alt_24"/>
+    <item
+        android:id="@+id/nav_dwnld_verity"
+        android:title="@string/nav_download_verity"
+        android:icon="@drawable/baseline_save_alt_24"/>
+
+    <item
+        android:id="@+id/nav_dwnld_surway"
+        android:title="@string/nav_download_surway"
+        android:icon="@drawable/baseline_save_alt_24"/>-->
+
+</menu>

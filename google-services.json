@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572986424604",
+    "project_id": "crac-survey",
+    "storage_bucket": "crac-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572986424604:android:99cc4e6ed86cf6f0ed4ed9",
+        "android_client_info": {
+          "package_name": "com.bmac.surwayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-orwzhAPFHy2meFW0YbgYNgqXjLIJfGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

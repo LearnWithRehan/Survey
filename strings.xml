@@ -1,0 +1,102 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CRAC Survey App</string>
+
+    <!-- Login Strings -->
+    <string name="login_email">Enter Email</string>
+    <string name="login_password">Enter Password</string>
+    <string name="btn_txt_login">Login</string>
+    <string name="txt_register">You Don\'t Have Account? Create Account</string>
+
+    <!-- Start Surway Strings -->
+    <string name="title_start_surway">Surway Details</string>
+    <string name="atv_select_farmer">Select Farmer Code</string>
+    <string name="atv_select_share_holder">Select Share Holder</string>
+    <string name="atv_select_village">Select Village Code</string>
+    <string name="atv_select_verity">Select Verity Code</string>
+    <string name="txt_farmer_transfer">Farmer Transfer :</string>
+    <string name="radio_txt_yes">YES</string>
+    <string name="radio_txt_no">No</string>
+    <string name="hint_plot_no">Enter Plot No.</string>
+    <string name="hint_plot_code">Enter Kitta No.</string>
+    <string name="hint_ward_no">Enter Ward No</string>
+    <string name="east">Enter East Name.</string>
+    <string name="west">Enter West Name.</string>
+    <string name="north">Enter North Name.</string>
+    <string name="south">Enter South Name.</string>
+    <string name="txt_select_value_rp">Select Value :</string>
+    <string name="radio_txt_r">R</string>
+    <string name="radio_txt_p">P</string>
+    <string name="radio_txt_a">A</string>
+    <string name="hint_share_holder">0</string>
+    <string name="latlng_point1">P1</string>
+    <string name="latlng_point2">P2</string>
+    <string name="latlng_point3">P3</string>
+    <string name="latlng_point4">P4</string>
+    <string name="btn_submit_surway_details">Submit</string>
+    <string name="superscript_sq">&#178;</string>
+    <!-- Start Surway inside Fragment Strings -->
+
+    <!-- Navigation Menu Strings -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_home_view">Home</string>
+    <string name="nav_synchronize_data">Synchronize Data</string>
+    <string name="nav_synchronize_grower">Syncronize Grower List</string>
+    <string name="nav_saved_survey">Saved Survey</string>
+    <string name="nav_map_survey">Open on Browser</string>
+    <string name="nav_log_out">Log out</string>
+    <string name="nav_synchronize_village">Synchronize Village List</string>
+    <string name="nav_synchronize_verity">Synchronize Verity List</string>
+    <string name="nav_download_surway">Download Survay</string>
+
+
+    <!-- Print Survey Strings -->
+    <string name="printer_out_of_paper">printer out of paper</string>
+    <string name="bhageshwar_sugar_chemical">Bhageshwar Sugar Chemical</string>
+    <string name="kanchanpur">Kanchanpur</string>
+    <string name="sur_no">SUR NO :</string>
+    <string name="g_code">G.Code :</string>
+    <string name="g_name">"G.NAME : "</string>
+    <string name="g_father">"G.FATHER : "</string>
+    <string name="g_v_code">"G.V.CODE : "</string>
+    <string name="g_village">"G.VILLAGE : "</string>
+    <string name="variety">"VARIETY : "</string>
+    <string name="rat_plant">"RAT/PLANT : "</string>
+    <string name="plot_no">"PLOT NO : "</string>
+    <string name="Ward_no">"Ward NO : "</string>
+    <string name="coordinates_mtr">"Coordinates(mtr) : "</string>
+    <string name="area_hc">"Area(hc) : "</string>
+    <string name="date">"Date : "</string>
+    <string name="t_code">"T.Code : "</string>
+    <string name="plot_v_code">"Plot V Code : "</string>
+
+    <!-- Print Survey Strings -->
+
+
+    <!-- saved survey design string text -->
+    <string name="farmer_name_ss">Farmer Name</string>
+    <string name="village_code_and_name_ss">Village Code and Name</string>
+    <string name="verity_code_ss">Verity Code</string>
+    <string name="farmer_transfer_ss">Farmer Transfer</string>
+    <string name="plot_no_ss">Plot No</string>
+    <string name="Ward_no_ss">Ward No</string>
+    <string name="rp_value_ss">RP Value</string>
+    <string name="share_holder_ss">Share Holder</string>
+    <string name="survey_datetime_ss">Survey DateTime</string>
+    <string name="total_area_ss">Total Area</string>
+    <string name="machine_id">Machine ID:</string>
+    <string name="saved_survey">Saved Survey</string>
+    <string name="synchronize_data">Synchronize Data</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="registration">Registration</string>
+    <string name="please_enter_valid_email_or_password">Please Enter Valid Email Or Password</string>
+    <string name="txt_village_data_not_synchronized">Village Data Not Synchronized</string>
+    <string name="txt_clear_are_you_sure">Survay Print</string>
+    <string name="txt_exit_msg_are_you_sure_to_want_to_exit">Are you sure to want to exit?</string>
+    <string name="txt_print_survay_yes">YES</string>
+    <string name="txt_print_survay_no">NO</string>
+    <string name="txt_dialog_do_you_want_to_print_survay_details">Do You Want To Print Survay Details?</string>
+    <!-- saved survey design string text -->
+
+
+</resources>
